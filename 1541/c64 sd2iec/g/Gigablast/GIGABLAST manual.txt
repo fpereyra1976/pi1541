@@ -1,0 +1,23 @@
+GIGABLAST (2015 TND SEUCK Compo Edition) - INSTRUCTION MANUAL
+----------------------------------------
+MISSION DIRECTIVES:
+You have been selected to test the GIGABLAST -- a devastating new superweapon.
+Fly the aircraft and drone across the robotic testing field, and take out as many machines as possible.
+
+INSTRUCTIONS:
+You control a ship firing lasers, plus a drone which drops Gigablast plasma bombs.
+Your ship or your drone will be awarded an extra life for every 10,000 points scored.
+When you come across laser barriers, be careful! They can destroy your ship, but the drone will only be stopped by it.
+Whenever a green arrow appears on the ground, a hostile force-field will prevent normal flight. You have to pull your ship forward to break out of the field.
+
+HINTS AND TIPS:
+- The Gigablast plasma bombs are slow. If you time their firing, they can cause more precise destruction.
+- The closer the drone comes to an enemy, the faster it can inflict serious damage.
+- Some enemies are worth a lot more points, but they are harder to beat.
+- If an enemy gets past your ship, it can shoot you in the back.
+- When you come across a large boss robot, shoot the weaker parts before you aim for its core segment.
+- Avoid the laser barriers at all costs!
+- Try to keep the drone alive for as long as possible, it will be invaluable later on.
+- On later levels, avoid crashing into tower blocks. (Hint: They cast large shadows...)
+- Look out for the mystery bonus item... and the invisible Red Robot!
+

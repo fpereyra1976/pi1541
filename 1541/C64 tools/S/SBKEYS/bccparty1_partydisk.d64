@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>C64 Club Berlin | BerlinC64Club</title>
+<link rel="stylesheet" href="/style.css?v=312301&amp;m=9530" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="https://images.staticjw.com/ber/9575/favicon.ico">
+	<meta charset="utf-8">
+	<style>#header-img{clear:both;}.nivoSlider{position:relative;width:100%;height:auto;overflow:hidden}.nivoSlider img{position:absolute;top:0;left:0;max-width:none}.nivo-directionNav a{position:absolute;top:45%;z-index:9;cursor:pointer;display:block;width:30px;height:30px;background:url(https://staticjw.com/n/js/slider/arrows.png) no-repeat;text-indent:-9999px;border:0}a.nivo-nextNav{background-position:-30px 0;right:15px}a.nivo-prevNav{left:15px}.nivo-slice{display:block;position:absolute;z-index:5;height:100%}.nivo-box{display:block;position:absolute;z-index:5}.nivo-main-image{display:block!important;position:relative!important;width:100%!important}.nivoSlider a.nivo-imageLink{position:absolute;top:0;left:0;width:100%;height:100%;border:0;padding:0;margin:0;z-index:6;display:none;background:#fff;filter:alpha(opacity=0);opacity:0}.nivo-slice{display:block;position:absolute;z-index:5;height:100%;top:0}.nivo-box{display:block;position:absolute;z-index:5;overflow:hidden}.nivo-box img{display:block}</style>
+	<link rel="canonical" href="http://berlinc64club.de/">
+</head>
+<body class="home page-template-default page page-id-67 custom-background wc-shortcodes-font-awesome-enabled group-blog">
+	<div id="page" class="hfeed site">
+			<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+				<h1 class="site-title logo-container"><a href="/" title="C64 Club Berlin" rel="home">
+		  <img class="main_logo" src="https://images.staticjw.com/ber/9585/logo2_small_3.png" title="C64 Club Berlin"></a></h1>		</div>
+			
+			<div id="social_icons">
+							<a target="_blank" href="https://www.facebook.com/groups/143557332348776/" title="Facebook"><img src="https://images.staticjw.com/ber/7276/facebook.png"></a>
+						    <a target="_blank" href="https://twitter.com/BerlinC64Club" title="Twitter"><img src="https://images.staticjw.com/ber/3880/twitter.png"></a>
+						    <a target="_blank" href="https://www.youtube.com/user/intubetor" title="YouTube"><img src="https://images.staticjw.com/ber/7847/youtube.png"></a>
+										</div>	        
+		</header>
+		
+		   <nav id="site-navigation" class="main-navigation" role="navigation">
+			 <div id="nav-container">
+				<h1 class="menu-toggle">Menü</h1>
+				<div class="screen-reader-text skip-link"><a href="#content" title="Direkt zum Inhalt">Direkt zum Inhalt</a></div>
+	
+				<div class="menu-c64-club-berlin-container">
+                    <ul id="menu-c64-club-berlin" class="menu">
+                        <li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-408"><span style="cursor:pointer;">Berichte und Geschichte</span>
+	<ul class="sub-menu">
+		<li id="menu-item-3754" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3754"><span style="cursor:pointer;">Digital Talk #100 erschienen</span></li>
+		<li id="menu-item-2973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2973"><span style="cursor:pointer;">Clubnews</span></li>
+		<li id="menu-item-1527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1527"><span style="cursor:pointer;">Nachhilfe-Blog</span></li>
+		<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-802"><span style="cursor:pointer;">Nerdismus</span></li>
+		<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-726"><span style="cursor:pointer;">Mitglieder(selbst)portraits</span></li>
+		<li id="menu-item-660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-660"><span style="cursor:pointer;">BCC-Partys</span></li>
+		<li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1301"><span style="cursor:pointer;">VCFB2015</span></li>
+	</ul>
+	</li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="/hardware/">Hardware</a></li>
+	<li id="menu-item-1188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1188"><span style="cursor:pointer;">Software</span>
+	<ul class="sub-menu">
+		<li id="menu-item-1206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1206"><span style="cursor:pointer;">BMP2MC</span></li>
+		<li id="menu-item-1597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1597"><span style="cursor:pointer;">SOFT-KERNAL</span></li>
+		<li id="menu-item-1676" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1676"><span style="cursor:pointer;">SEABROWSE 1.3C</span></li>
+		<li id="menu-item-2101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2101"><span style="cursor:pointer;">Emu64</span></li>
+	</ul>
+	</li>
+	<li id="menu-item-889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-889"><span style="cursor:pointer;">Veranstaltungen</span></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><span style="cursor:pointer;">Live-Chat</span></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><span style="cursor:pointer;">Impressum</span></li>
+	<li id="menu-item-2626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2626"><span style="cursor:pointer;">Spenden</span></li>
+	</ul></div>          </div>  
+			</nav>
+<div style="text-align: center; background-color: #fff;  padding: 10px;  font-weight: bold;   font-size: 20px;"><br>Diese Seite wurde heruntergefahren.</div>
+		<div id="content" class="site-content">
+		<div id="slider-wrapper">
+		<div id="header-img" class="nivoSlider" style="width:100%;max-width:940px;max-height:459px;height:auto;background:url(https://images.staticjw.com/ber/2462/090620162768-e1465975833775.jpg) no-repeat 50% 50%">
+	<img src="https://images.staticjw.com/ber/2462/090620162768-e1465975833775.jpg" alt="">
+	<img src="https://images.staticjw.com/ber/7519/dsci0025.jpg" alt="">
+	<img src="https://images.staticjw.com/ber/9634/20012017055.jpg" alt="">
+</div>
+ </br>
+		</div>
+        
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">				
+	<article id="post-67" class="post-67 page type-page status-publish hentry">
+		<header class="entry-header">
+			<h1 class="entry-title">C64 Club Berlin</h1>
+		</header>
+		<div class="entry-content">
+			<p>Der <a title="Homepage des C64 Club Berlin" href="/" target="_blank"><em>C64 Club Berlin</em></a> existiert seit Oktober 2006. Er wurde von Thunder.Bird und Prof.Pi² für die <a title="ComBär" href="http://berlinercomputertage.de/">ComBär </a>ins Leben gerufen. Ohne den Anruf des Veranstalters der Berliner Computermesse wäre es nie dazu gekommen. Das Bestreben des Interessenverbands ist, den C64 in Ehren zu halten und aktiv mit diesem Heimcomputer der 1980&#8217;er Jahre zu spielen. Für Fragen zu klassischen Computern stehen wir gern zur Hilfe bereit.</p>
+	<p>Jedes Jahr zum vollen letzten Februar-Wochenende veranstalteten wir eine C64-<span style="cursor:pointer;">Party</span>. Dort fachsimpeln wir und produzieren Digitale Kunst auf dem Commodore 64 Heimcomputer aus dem Jahr 1982. Unterhaltsame Musik oder spannende Spiele, selbst ablaufende technisch beeindruckende Demos oder faszinierende Bilder sind die Ergebnisse solcher Treffen. Diese Ergebnisse sind zeitnah auf der <span style="cursor:pointer">Commodore Szene Datenbank</span> abrufbar.</p>
+    <div id="attachment_5" style="width: 310px" class="wp-caption alignleft">
+        <p class="wp-caption-text">C64-Fans @ BCC#9 Party (c)2015</p></div>
+	<p>Das Team des C64 Club Berlin freut sich über jegliche Unterstützung. Der Interessenverband trägt sich aus privaten Mitteln.</p>
+	<p>Seit Mai 2015 ist die Clubhomepage auf WordPress aufgesetzt. Seitdem erscheinen hier regelmäßig neue Beiträge.</p>
+	<p><span style="cursor:pointer;">Auf dem Weg in die Zukunft</span> sind wir seit 2017 <span style="cursor:pointer;">Endlich angekommen</span> und beschreiten die Pflege erhaltenswerter Computergeschichte seither in Falkensee westlich von Berlin.</p>
+	<div style="clear:both;"></div>			</div>		
+		<div id="comments" class="comments-area">
+				<h2 class="comments-title">
+				26 thoughts on &ldquo;<span>C64 Club Berlin</span>&rdquo;		</h2>
+	
+					
+			
+	
+					
+			
+		
+		
+			
+		
+	</div>	
+			</main>
+		</div>
+	
+		<div id="secondary" class="widget-area" role="complementary">
+                    <aside id="eme_list-2" class="widget widget_eme_list"><h1 class="widget-title">Der C64 Club Berlin lädt ein</h1>
+                        <ul><li><span style="cursor:pointer;" title="VCFB">VCFB</span>
+                        <ul><li>7. Oktober 2017</li><li>Berlin</li></ul>
+                    </li><li><span style="cursor:pointer;" title="BCC#12">BCC#12</span>
+                        <ul><li>23. Februar 2018</li><li>Berlin</li></ul></li>
+                    </ul>
+                    </aside>
+                    <aside id="meta-8" class="widget widget_meta"><h1 class="widget-title">Funktionsmenü</h1>			<ul>
+							<li><a href="/">Anmelden</a></li>
+				<li><span style="cursor:pointer;">Beitrags-Feed (<abbr title="Really Simple Syndication">RSS</abbr>)</span></li>
+				<li><span style="cursor:pointer;">Kommentare als <abbr title="Really Simple Syndication">RSS</abbr></span></li>
+				<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+				</aside><aside id="rss-4" class="widget widget_rss"><h1 class="widget-title">
+                    <a class="rsswidget" href="http://csdb.dk/rss/groupreleases.php?id=4629">
+                        <img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://images.staticjw.com/ber/4682/rss.png" alt="RSS"/></a>
+                         <span style="cursor:pointer" class="rsswidget" >Neue BCC-Releases</span></h1>
+                         <ul><li>
+<span style="cursor:pointer" class="rsswidget" >Maked64</span> <span class="rss-date">8. September 2017</span><div class="rssSummary">Type: C64 ToolDownload | Discuss</div></li>
+                            <li><span style="cursor:pointer" class="rsswidget" >Sonki 3000</span> <span class="rss-date">24. Februar 2017</span><div class="rssSummary">Type: C64 MusicDownload | Discuss</div></li>
+                            <li><span style="cursor:pointer" class="rsswidget" >BCC#11 Invitation</span> <span class="rss-date">22. November 2016</span><div class="rssSummary">Type: C64 InvitationDownload | Discuss</div></li></ul></aside><aside id="rss-3" class="widget widget_rss">
+                                <h1 class="widget-title"><a class="rsswidget" href="http://csdb.dk/rss/latestadditions.php?type=release">
+                                    <img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://images.staticjw.com/ber/4682/rss.png" alt="RSS"/></a>
+                                    <span style="cursor:pointer" class="rsswidget" >Auf Diskette gefunden:</span></h1><ul>
+                                        <li><span style="cursor:pointer" class="rsswidget" >Particles! BBS 25th Anniversary Pics by Ice Breaker (2017)</span> <span class="rss-date">24. September 2017</span></li>
+                                        <li><span style="cursor:pointer" class="rsswidget" >VDC Init by Robert Olessak (2017)</span> <span class="rss-date">24. September 2017</span></li>
+                        <li><span style="cursor:pointer" class="rsswidget" >Piss on PSI by North East Pirates Association (1986)</span> <span class="rss-date">24. September 2017</span></li></ul></aside>
+                </div>	
+                
+		</div>
+	
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div id="footer-container">
+				<div id="footer-navigation"> 
+				<div class="menu"><ul>
+	<li class="current_page_item"><a href="/">Startseite</a></li><li class="page_item page-item-406 page_item_has_children">
+        <span style="cursor:pointer;">Berichte und Geschichte</span>
+	<ul class="children">
+		<li class="page_item page-item-762"><span style="cursor:pointer;">16 Bit</span></li>
+		<li class="page_item page-item-656 page_item_has_children">
+            <span style="cursor:pointer;">BCC-Partys</span>
+		<ul class="children">
+			<li class="page_item page-item-1923"><span style="cursor:pointer;">B~C=C#10 Party</span></li>
+			<li class="page_item page-item-661"><span style="cursor:pointer;">BCC-Party #01 &#8211; 2007</span></li>
+			<li class="page_item page-item-670"><span style="cursor:pointer;">BCC-Party #07 &#8211; 2012</span></li>
+			<li class="page_item page-item-665"><span style="cursor:pointer;">BCC-Party #09 &#8211; 2015</span></li>
+		</ul>
+	</li>
+		<li class="page_item page-item-721 page_item_has_children">
+            <span style="cursor:pointer;">Mitglieder(selbst)portraits</span>
+		<ul class="children">
+			<li class="page_item page-item-728"><span style="cursor:pointer;">Seanser</span></li>
+			<li class="page_item page-item-2034"><span style="cursor:pointer;">Thorsten Kattanek</span></li>
+			<li class="page_item page-item-1387"><span style="cursor:pointer;">Thunder</span></li>
+			<li class="page_item page-item-714"><span style="cursor:pointer;">Doc Phura</span></li>
+		</ul>
+	</li>
+		<li class="page_item page-item-794 page_item_has_children"><span style="cursor:pointer;">Nerdismus</span>
+		<ul class="children">
+			<li class="page_item page-item-800"><span style="cursor:pointer;">16 Bit</span></li>
+			<li class="page_item page-item-798"><span style="cursor:pointer;">Björk</span></li>
+			<li class="page_item page-item-1006"><span style="cursor:pointer;">Console</span></li>
+		</ul>
+	</li>
+	</ul>
+	</li>
+	<li class="page_item page-item-1189"><span style="cursor:pointer;">BMP2MC</span></li>
+	<li class="page_item page-item-168"><span style="cursor:pointer;">C64 Emulator</span></li>
+	<li class="page_item page-item-459"><span style="cursor:pointer;">Clubpost</span></li>
+	<li class="page_item page-item-78"><a href="/hardware/">Hardware</a></li>
+	<li class="page_item page-item-186"><span style="cursor:pointer;">Impressum</span></li>
+	<li class="page_item page-item-156"><span style="cursor:pointer;">Live-Chat</span></li>
+	<li class="page_item page-item-1524"><span style="cursor:pointer;">Nachhilfe-Blog</span></li>
+	<li class="page_item page-item-1595"><span style="cursor:pointer;">SOFT-KERNAL</span></li>
+	<li class="page_item page-item-1186 page_item_has_children"><span style="cursor:pointer;">Software</span>
+	<ul class="children">
+		<li class="page_item page-item-2088"><span style="cursor:pointer;">Emu64</span></li>
+	</ul>
+	</li>
+	<li class="page_item page-item-2619"><span style="cursor:pointer;">Spenden</span></li>
+	<li class="page_item page-item-451"><span style="cursor:pointer;">VCFB-Projekte</span></li>
+	<li class="page_item page-item-878 page_item_has_children"><span style="cursor:pointer;">Veranstaltungen</span>
+	<ul class="children">
+		<li class="page_item page-item-880"><span style="cursor:pointer;">Kategorien</span></li>
+		<li class="page_item page-item-882"><span style="cursor:pointer;">Meine Buchungen</span></li>
+		<li class="page_item page-item-881"><span style="cursor:pointer;">Schlagworte</span></li>
+		<li class="page_item page-item-879"><span style="cursor:pointer;">Veranstaltungsorte</span></li>
+	</ul>
+	</li>
+	</ul></div>
+				</div> 
+				
+				
+							<div id="footertext">
+			   (c) Berlinc64club.de </div> 	
+							 
+				
+				 
+			</div>
+		</footer>
+	</div>
+	<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nivoslider/3.2/jquery.nivo.slider.pack.min.js"></script>
+<script>$(window).load(function() {$('#header-img').nivoSlider({pauseTime: 5000,directionNav: true,controlNav: false,pauseOnHover: false});});</script>
+
+<script>(function() { var global_id = '1tvcilwi'; var property_id = 312301;
+	var url = encodeURIComponent(window.location.href.split('#')[0]); var referrer = encodeURIComponent(document.referrer);
+	var x = document.createElement('script'), s = document.getElementsByTagName('script')[0];
+	x.src = 'https://redistats.com/track.js?gid='+global_id+'&pid='+property_id+'&url='+url+'&referrer='+referrer; s.parentNode.insertBefore(x, s); })(); </script>
+
+</body>
+	</html>

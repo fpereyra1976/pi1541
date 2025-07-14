@@ -1,0 +1,159 @@
+// ----------------------------------------------//
+// Archivo de Configuracion para PI 1541 V 1.24  //
+// Raspberry Pi Zero Solamente                   //
+// Revision 2  - APIX 2024                       //
+// ----------------------------------------------//
+
+// Cambiar nro. de dipositivo , valor por defecto = 8
+//deviceID = 9
+
+//Cambiar el siguiente valor solo si se usa hardware de tipo B
+//splitIECLines = 1
+
+// si se utiliza hardware que requiera que las lineas esten invertidas, entonces especificar aqui.
+//invertIECInputs = 1
+
+//Si estas utilizando un 7407
+//invertIECOutputs = 0
+
+
+// Si estas utilizando la salida compuesta de video de la PI, se puede experimentar con los siguientes valores.
+ScreenWidth = 800
+ScreenHeight = 600
+
+
+// Por defecto, Pi1541 buscará en la raiz de la tarjeta SD buscando un archivo de ROM para utilizarlo como ROM1
+// El primer archivo encontrado con los siguientes nombres se utilizará: d1541.rom, dos1541, d1541II, Jiffy.bin
+// Se puede cambiar este valor especificando en la siguiente variable el nombre de la rom deseada:
+//ROM1 = TuRomPorDefecto
+
+//Se pueden especificar ROMS adicionales a continuacion.
+// Si se conecta un teclado USB, se pueden utilizar las teclas de funcion de F1 a F7 para seleccionar la ROM deseada (solo
+// mientras esta en modo navegacion y no en modo emulación)
+// Tambien se puede utilizar los botones del panel externo para cambiar las ROMS, sosteniendo el boton 1 (enter) y presionando
+//cualquiera de los otros botones 2 a 5
+// Tambien se puede especificar dentro de un archivo .LST que ROM especifica se quiere utilizar al cargar ese archivo.
+
+ROM2 = Jiffy.bin
+ROM3 = d1541II
+
+// ponga el nombre de su rom de 1581 aqui
+ROM1581 = dos1581.bin
+//ROM1581 = JiffyDOS_1581.bin
+
+// Rate (en segundos) cuando uno presiona el boton de navegacion en el display para hacer scroll
+scrollHighlightRate = 0.07
+
+// Habilitar emulación RAMboard - activar expansión de memoria del drive en 8k (en 0X8000)
+//RAMBOard = 1
+
+//ChargenFont = chargen		// Archivo de fuente de 8 bits
+
+// Si se utiliza el CBMFileBrowser (FB) lo mejor es especificar esta opcion, cuando la computadora resetea el Pi, siempre volverá
+// al directorio raiz para poder volver a cargar el File Browser.
+
+OnResetChangeToStartingFolder = 1
+
+// If you use FB64 (CBMFileBrowser) and want to use a fast loader cartridge (AR6, EFL, FC3) to load it then use this option to automatically mount it. 
+// Si utilizas FB64 (CBMFileBrowser) y querés utilizar un cartucho Fast Load (AR6, Epyx, FC3) para cargar, utilizar esta opcion para montar
+// automaticamente y asi evitar problemas de compatibilidad.
+
+AutoMountImage = fb.d64 // Es indispensable tener una imagen con este nombre en la carpeta \1541
+
+// Si estas utilizando FB128 en modo 128, se puede hacer que autobootee usando esta opcion
+//AutoBootFB128 = 1
+
+// SI estas utilizando una 128, se puede auto botear cualquier cosa, utilizando esta opcion
+// esta opcion se superpone sobre la opcion AutoBootFB128
+//128BootSectorName = bootsect.128
+
+// SI alguna vez quisieras desactivar el modo navegación por completo, se puede hacer aqui.
+//DisableSD2IECCommands = 1
+
+// Esta opcion muestra la actividad del bus IEC en la parte de abajo de la pantalla de la PI (en HDMI o Compuesto)
+GraphIEC = 1
+
+// Si tenes conectado un buzzer, se puede utilizar esta opcion para escuchar el cambio de pistas.
+SoundOnGPIO = 1
+SoundOnGPIODuration = 400 // Largo del sonido en micro segundos
+SoundOnGPIOFreq = 300 // Frecuencia del sonido en Hz
+
+// podes crear archivos PNG de 320x240 pixeles de resolucion con el mismo nombre de sus imagenes de disco. Con esta opcion se
+// mostrarán en la pantalla de tu Pi (HDMI o Compuesto)
+//DisplayPNGIcons = 1
+
+//Si queres especificar que archivo queres cargar cuando escribas LOAD "*" en modo navegacion, especificalo a continuacion
+//StarFileName = algun archivo
+
+
+// SI utilizas un teclado USB, ALT-N crea una nueva imagen de diskette D64
+// Los nombres se forman automaticamente como autoname001.d64, autoname002.d64 etc...
+// Se puede cambiar la base del nombre aqui
+AutoBaseName = newdisk
+
+// SI estas utilizando un display LCD / OLED, especificalo a continuacion
+LCDName = ssd1306_128x64
+//LCDName = ssd1306_128x32
+//LCDName = sh1106_128x64
+// SI estas utilizando un display LCD y queres que las teclas PageUp y PageDown funcionen con el, especificarlo aqui
+KeyboardBrowseLCDScreen = 1
+
+// Cambiar el logo de inicio en un OLED - 1541ii o 1541classic, o especificar uno
+//LcdLogoName = 1541ii
+//LcdLogoName = 1541classic
+LcdLogoName = apix.raw
+//LcdLogoName=pi1541.raw
+
+
+// Si estas utilizando un display LCD del tipo I2C, podes opcionalmente cambiar a que pines del Raspberry esta conectado
+// Por defecto el valor 0 se utiliza para hardware Opcion A, y 1 para Hardware Opcion B
+//i2cBusMaster = 0 //SDA - pin 27 SCL - pin 28
+//i2cBusMaster = 1 //SDA - pin 3 SCL - pin 5
+//i2cLcdAddress = 60	// DIreccion del display I2C en decimal y desplazado. 60 == 0x78, 61 == 0x7A
+//i2cLcdFlip = 1 // Rotar el display LCD I2C 180 grados
+//i2cLcdOnContrast = 127 // Permite ajustar el contraste de la pantalla LCD
+//i2cScan = 1 // Permite scanear el bus I2C y mostrar las direcciones en pantalla
+//i2cLcdUseCBMChar = 0 // Si cambias este valor a 1, utiliza el font CBM en el LCD, es mas pequeño.
+
+//QuickBoot = 0		// Inicio rapido
+//ShowOptions = 0	// Mostrar opciones en la pantalla de inicio 
+//IgnoreReset = 0
+
+
+// Podes cambiar la funcion de los botones fisicos con estos valores
+//buttonEnter = 1
+//buttonUp = 2
+//buttonDown = 3
+//buttonBack = 4
+//buttonInsert = 5
+
+
+//ROTARY:
+//
+// Soporte para el Codificador Rotativo KY-040
+// KY-040 Rotary Encoder Support
+//
+//    Si se quisiera utilizar un Codificador Rotativo para recorrer el menu hacia arriba o abajo y seleccionar
+//    se puede habilitar aqui. Conectarlo de la siguiente manera:
+//    GPIO 22 - Menu ARRIBA  - Pin A del Codificador (CLK)
+//    GPIO 23 - Menu ABAJO   - Pin B del Codificador (DT)
+//    GPIO 27 - Enter/Select - Boton del Codificador
+//
+//    ** Utilizar un codificador rotativo es incompatible con el cambio/remapeo de botones.
+//       debes utilizar los valores por defecto: Enter=1 , arriba = 2, abajo = 3, Atras= 4, Insert=5
+//
+//    ** Estos seteos se probaron solamente en un Raspberry Pi 3, puede no funcionar en otros modelos!!
+//
+//RotaryEncoderEnable = 1
+
+
+
+// Esta opcion mostrará la temperatura de la CPU de la Pi
+// Debe estar entrs 52 y 65° C, por encima de ese valor es malo, y es recomendable revisar el hardware
+//DisplayTemperature = 1
+
+
+// Cuando se utiliza esta opcion, Pi1541 mostrará en minúsculas todos los nombres de archivos
+/ que envia a la computadora, para evitar mostrar caracteres raros
+// Esto es muy util cuando uno usa FB, porque cambiará todos los nombres de archivos a letras mayusculas sin graficos.
+lowercaseBrowseModeFilenames = 1
