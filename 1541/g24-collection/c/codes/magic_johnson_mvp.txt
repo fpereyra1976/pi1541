@@ -1,0 +1,18 @@
+page 11: DOWN
+page 12: OR
+page 21: THE
+page 24: FOUR
+page 27: THAT
+page 28: OPPONENTS
+page 29: CHART
+page 33: EYES
+page 40: SHOT
+page 44: BAR
+page 46: GARDEN
+page 37: RESTED
+page 54: ILLEGAL
+
+ 
+
+Please note that sometime program itself does error and do not accept the
+password it require

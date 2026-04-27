@@ -1,0 +1,142 @@
+The Guild of Thieves
+--------------------
+[all passwords]
+
+pag col lin wrd code
+--------------------
+ 2   1   1   1  what
+ 2   1   3   2  guild
+ 2   1  11   5  rhino (rhinoceros)
+ 2   1  13   2  master
+ 2   1  20   3  many
+ 2   2   2   4  find
+ 2   2  14   1  north
+ 2   3  10   1  stop
+ 2   3  11   2  show
+ 2   3  26   4  were
+ 3   1   6   1  chest
+ 3   1  18   2  fool
+ 3   2   1   4  face
+ 3   2   9   2  must
+ 3   2  30   5  people (customers)
+ 3   3  10   2  work
+ 3   3  11   2  rhino (rhinoceros)
+ 3   3  20   1  about
+ 4   1   3   1  bottle
+ 4   1  18   5  place
+ 4   1  24   1  drink
+ 4   3  19   5  glass (window)
+ 4   3  30   2  door
+ 5   1  11   3  things (all)
+ 5   1  18   3  eye
+ 5   1  25   1  entrance
+ 5   2  14   4  field (golden)
+ 5   2  31   5  must
+ 5   3  12   3  room
+ 5   3  15   2  swag
+ 6   1  14   1  third
+ 6   2   4   4  first
+ 6   2   9   1  looking
+ 6   3   1   4  give
+ 7   1   1   2  place
+ 7   1  11   1  skeleton
+ 7   1  16   5  smear (rub)
+ 7   1  27   3  window
+ 7   1  30   2  paper
+ 7   2   4   1  chair
+ 7   2  10   5  know
+ 7   3  12   2  some
+ 7   3  15   2  fool
+ 8   1  29   3  again [should be "three"]
+ 8   2  12   4  case
+ 8   2  20   3  thief
+ 8   3  16   3  thieves (guild)
+ 8   3  24   1  laugh
+ 8   3  31   2  night
+ 9   1  14   2  yellow
+ 9   1  15   4  smell
+ 9   2   2   4  where
+ 9   3  18   2  most
+10   1   4   3  blow
+10   1  18   2  off
+10   1  21   2  people (customers)
+10   2   3   1  over
+10   3   7   2  rats
+10   3  20   3  die
+10   3  31   2  place
+12   1   3   1  thief
+12   1   5   3  cut
+12   1   9   5  take
+12   1   9   6  note
+12   1  25   3  large
+12   1  25   4  clouds
+12   2   4   7  stop
+12   2   9   2  pick
+12   2  14   2  notice
+12   2  15   3  stand
+12   2  16   7  down
+13   1   3   6  stool
+13   1   5   2  up
+13   1  11   5  wish
+13   1  23   1  exits
+13   1  24   1  out (exit)
+13   1  24   3  exit
+13   2   7   1  drink
+13   2  13   1  some
+13   2  13   5  bottle
+13   2  18   4  large
+14   1  12   2  all
+14   1  13   5  drop
+14   1  15   2  get
+14   1  15   3  all
+14   1  15   7  all
+14   1  16   5  room
+14   1  19   2  room
+14   2   4   2  glass (window)
+14   2   6   5  glass (window)
+14   2   7   2  glass (window)
+14   2   7   5  glass (window)
+14   2   8   3  glass (window)
+14   2   9   3  point
+15   1   4   3  glass (window)
+15   1  12   3  stop
+15   1  14   2  drink
+15   1  21   3  case
+15   2   2   4  put
+15   2   2   6  coin
+15   2   2   7  onto
+15   2   3   6  coin
+15   2   4   3  on
+15   2   4   6  into
+15   2   5   7  coin
+15   2   8   6  coin
+15   2   9   6  ask
+15   2  10   1  you
+15   2  12   3  point
+15   2  13   6  one
+16   1   1   2  small
+16   1   1   3  chest
+16   1   3   2  green
+16   1   4   1  large
+16   1   4   2  chest
+16   1  20   5  broken
+16   1  21   1  down
+16   1  21   3  five
+16   1  26   3  get
+16   1  26   4  all
+16   2   1   7  green
+16   2   2   1  bottle
+16   2   2   4  green
+16   2   3   1  bottle
+16   2   4   4  bottle
+16   2   5   5  bottle
+16   2   7   1  man
+16   2  10   3  open
+16   2  10   5  bottle
+16   2  11   4  bottle
+16   2  17   3  huge
+16   2  22   5  bottle
+17   1   8   1  door
+17   1  11   5  spot
+17   1  14   4  spot
+17   1  16   5  bite

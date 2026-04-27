@@ -1,0 +1,574 @@
+The Pawn
+--------
+[all passwords]
+
+pag lin wrd code
+----------------
+ 1   2   6  coin
+ 1   2  15  kerovnia (kerovnian)
+ 1   3   4  erik
+ 1   4  10  kerovnia (kerovnian)
+ 1   8  10  kerovnia (kerovnian)
+ 1   9   2  close
+ 1   9   8  gnomes
+ 2   1   9  kerovnia (kerovnian)
+ 2   1  11  red
+ 2   4   2  erik
+ 2   5  12  gnomes
+ 2   7  10  gringo
+ 2   8   7  maze
+ 2  10   5  run
+ 2  10  11  blue
+ 2  16   6  kerovnia (kerovnian)
+ 2  17  11  wilderness
+ 2  21   1  cross
+ 2  21   4  rabbit
+ 2  23  11  rabbit
+ 2  25   6  wilderness
+ 2  26  13  burn
+ 2  27  11  kerovnia (kerovnian)
+ 2  28   9  erik
+ 3   2  10  light
+ 3   4   3  gnomes
+ 3   5   8  erik
+ 3   6   2  gringo
+ 3   9   6  kerovnia (kerovnian)
+ 3  13   7  take (fire)
+ 3  23   8  high
+ 3  27   9  throne
+ 4   1   6  hit
+ 4   2   8  run
+ 4   2  10  gringo
+ 4   4   1  princess
+ 4   5   4  kerovnia (kerovnian)
+ 4   7   1  erik
+ 4   8  10  take (fire)
+ 4   9   8  gringo
+ 4  16   3  kerovnia (kerovnian)
+ 4  18   5  eyes
+ 4  21  12  palace
+ 4  22   5  rose
+ 4  23   6  eyes
+ 4  26  10  princess
+ 4  27  12  erik
+ 5   1   3  erik
+ 5   2   1  blue
+ 5   2   4  room
+ 5   3   2  green
+ 5   6   1  erik
+ 5   6   4  head
+ 5   9   0  kerovnia (kerovnian) [actually 5-8-16; 5-9-0 doesn't exist]
+ 5  11  11  erik
+ 5  13   4  room
+ 5  13   6  empty
+ 5  13   7  erik
+ 5  18   6  white
+ 5  23   6  kerovnia (kerovnian)
+ 6   5   4  laboratory
+ 6   7   3  erik
+ 6   7   8  use
+ 6   8   3  palace
+ 6   9   5  magician
+ 6  11   6  magician
+ 6  14   8  green
+ 6  14  10  hat
+ 7   5   7  dust
+ 7   8   1  turn
+ 7   9  12  erik
+ 7  10  10  palace
+ 7  11   8  heads
+ 7  12   9  damage
+ 7  12  13  life
+ 7  13   3  palace
+ 7  13  12  palace
+ 7  14   9  gardens
+ 7  15  14  box
+ 7  16   9  horse
+ 7  17   6  head
+ 7  22   7  fight (voting)
+ 7  24  12  fill
+ 8   2   6  gardens
+ 8   8   5  kerovnia (kerovnian)
+ 8   8   7  erik
+ 8  11  11  gringo
+ 8  12   2  gringo
+ 8  12   9  kerovnia (kerovnian)
+ 8  14  12  gringo
+ 8  17   5  throw
+ 8  26   1  gringo
+ 9   4   7  gringo
+ 9   5   2  head
+ 9   7   8  gringo
+ 9  14   2  fight (C64: voting)
+ 9  15   4  read
+ 9  15   9  palace
+10   2  12  princess
+10   4   5  room
+10   5   6  palace
+10   5  10  high
+10   6   6  stone
+10   7   1  windows
+10   8  10  window
+10  11   4  eyes
+10  12   6  water
+10  20   4  palace
+11   1   1  erik
+11  11   3  erik
+11  12   2  princess
+11  17   4  eyes
+11  18   1  room
+11  18  11  windows
+11  20   4  windows
+11  21  12  room
+11  22   9  blue
+11  23   6  arms
+11  24  10  blue
+11  27  11  blue
+11  28  13  table
+11  29   1  erik
+11  30   2  guards
+12   3   8  symbols
+12   4  12  table
+12   7  12  gold
+12   7  14  dress
+12  10  11  throne
+12  12   4  arms
+12  13   6  eyes
+12  13  10  take (fire)
+12  16   5  hide
+12  20   3  kerovnia (kerovnian)
+12  27  11  kerovnia (kerovnian)
+12  29   7  gold
+13   1   6  erik
+13   2   6  chest
+13   2  11  good
+13   6   4  eyes
+13   6  12  princess
+13   7   5  room
+13  11   3  green
+13  15   6  take (fire)
+13  17   7  eyes
+13  18  11  eyes
+13  20   8  hand
+13  23  10  voice
+13  24   8  kerovnia (kerovnian)
+14   2  10  red
+14   9   7  voice
+14  13   1  kerovnia (kerovnian)
+14  16   8  arms
+14  18   1  eyes
+15   2   6  rose
+15   7   1  kerovnia (kerovnian)
+15   9  10  palace
+16   2   7  take (fire)
+16   2   9  leave
+16   2  15  eyes
+16   5   6  head
+16   6   2  chest
+16  10   5  magician
+16  11   4  dragon
+16  12  14  dragon
+16  14  11  cave
+16  16   2  dragon
+16  16   9  green
+16  17   3  red
+16  19   3  eyes
+16  20   4  look
+16  22   1  jump
+16  23   4  dragon
+16  23  11  kerovnia (kerovnian)
+17   5  10  potion
+17   7   8  take (fire)
+17   7  14  potion
+17   8   9  fire
+17  10   3  take (fire)
+17  10   8  potion
+17  11   4  fog
+17  11   9  kerovnia (kerovnian)
+17  12   4  hand
+17  13   9  use
+17  15  10  gold
+17  16   2  fog
+17  18  12  potion
+17  19  11  blue
+17  22   2  palace
+17  22  10  foothills
+17  23   1  potion
+17  24   3  table
+17  24   9  room
+17  28   6  gringo
+17  29   2  dragon
+18   2  10  gringo  [actually 18-2-9; 18-2-10 is "and"]
+18   5   8  take (fire)
+18   5  10  kerovnia (kerovnian)
+18   8   9  gringo
+18   8  10  person
+18  10   1  kerovnia (kerovnian)
+18  11  13  gringo
+18  13   4  run
+18  15  11  hills
+18  16   4  palace
+18  18   9  potion
+18  21   2  high
+18  21  10  potion
+18  26   8  gringo
+18  28   8  dragon
+19   1  12  stone
+19   2   5  blue
+19   2   7  gold
+19   4   3  entrance
+19   4   6  cave
+19   4  12  hat
+19   6   4  go
+19   6  10  go
+19   7   1  go
+19   7   6  go
+19  14   8  cave
+19  17   8  feet
+19  18  10  staircase
+19  19   1  use
+19  19   7  dragon
+19  21   2  slope
+19  22   5  gringo
+19  27   6  hills
+20   3  11  gringo
+20   4   2  stone
+20   9   7  gold
+20  11   1  eyes
+20  14  11  dragon
+20  18   1  cry
+20  20   1  green
+20  21   4  steal
+20  22  10  wand
+20  23   5  pocket
+20  23  13  hand
+20  24   8  use
+20  25   3  windows
+20  26   7  desk
+21   1   1  dragon
+21   1   8  window
+21   2   1  gringo
+21   2   2  rose
+21   3   3  eyes
+21   5   9  wand
+21   6   1  hand
+21   7  11  magician
+21   8   2  go
+21   9   1  put
+21  10   4  get
+21  11   7  gringo
+21  14   1  gold
+21  15   3  gringo
+21  15   7  room
+21  16   8  room
+21  17   3  dragon
+21  18   5  gringo
+21  20   3  whisky
+21  24   5  white
+21  24  12  pour
+21  27  11  room
+21  27  12  gringo
+22   2   3  feet
+22   4   6  potion
+22   4   8  mix
+22   4  12  dragon
+22   6   1  gringo
+22   6   6  dragon
+22   8   2  fog
+22   9   1  palace
+22  12   6  gringo
+22  13   9  red
+22  17   4  damage [should be "say"]
+22  17   7  magician
+22  19   2  get
+22  20   7  gringo
+22  22   3  magician
+22  24   1  gringo
+22  24  11  wand
+22  25   1  pocket
+23   1   2  get
+23   2   6  kerovnia (kerovnian)
+23   6  10  room
+23   8   3  gringo
+23   9   2  empty
+23  10   2  get
+23  10  14  hell
+23  11   5  palace
+23  13  12  dragon
+24   2   8  kerovnia (kerovnian)
+24   4  13  erik
+24   6   8  palace
+24   9   9  leave
+24  10   3  join
+24  12   3  use
+24  18   4  gringo
+24  22   6  trees (much)
+25   1  12  white
+25   2  10  palace  [actually 25-2-9; 25-2-10 is "where"]
+25   4   8  tower  [actually 25-4-7; 25-4-8 doesn't exist]
+25   6  12  arms
+25   7   9  fit
+25   8   1  white
+25   8   3  white
+25   9   7  person
+25  12   8  palace
+25  13   4  palace
+25  15   1  lift
+25  16   2  gardens
+25  18   3  white
+25  25  10  palace
+26   6   8  kerovnia (kerovnian)
+26   9  11  palace
+26  12   1  hand
+26  13   2  erik
+26  14  11  take (fire)
+26  17   2  erik
+26  20  13  pot
+26  20  14  erik
+26  20  15  gringo
+26  23   7  water
+26  23  11  pool
+26  26   8  life
+27   4   6  feet
+27   5  10  water
+27   6   6  pool
+27   8   7  put
+27   8   9  hand
+27  12   9  water
+27  14   2  pool
+27  15   9  princess
+27  19   4  rose
+27  23   4  pool
+27  23   9  empty
+27  24   3  water
+27  25   1  high
+27  26   4  damage [should be "say"]
+28   1   3  read
+28   3   7  water
+28   4  11  get
+28   4  13  close
+28   6  12  hit
+28   8   2  blow
+28   8  11  water
+28  10   7  water
+28  13   9  pool
+28  13  12  room
+28  16   9  bushes
+28  20  12  erik
+28  26   1  high
+28  26  10  press
+28  27   2  use
+29   2   7  palace
+29   4   7  princess
+29   5   4  palace
+29  12   5  green
+30   2   2  gringo
+30   4   4  gringo
+30   4   7  trees (much)
+30   9   4  person
+30  10   9  empty
+30  13  10  life
+30  14  13  kerovnia (kerovnian)
+30  15   5  feet
+30  19   5  hand
+30  20   7  erik
+30  21   7  gringo
+30  21  10  office
+30  22   4  potion
+30  22  11  water
+31   4   6  potion
+31   4  14  room
+31   6   8  gringo
+31   7   7  read
+31   8   3  gringo
+31   8   7  high
+31   9   4  whisky
+31  10   5  water
+31  11  10  erik
+31  12  13  fit
+31  15   5  hand
+31  19  10  gringo
+31  23   8  blue
+31  28   2  person
+31  28   7  gringo
+32   2  12  gringo
+32   4  11  kerovnia (kerovnian)
+32  11   6  palace
+32  11   9  leave
+32  12   7  gringo
+32  14   6  take (fire)
+32  19   1  kerovnia (kerovnian)
+32  24   6  erik
+32  24  12  kerovnia (kerovnian)
+32  29  12  kerovnia (kerovnian)
+33   2   5  remove
+33   2  10  office
+33   8   9  put
+33   9   2  chest
+33   9   7  bed
+33  11  10  chest
+33  13   1  writing
+33  14   1  princess
+33  16  10  eyes
+33  17  13  use
+33  19   4  look
+33  23   8  princess
+33  26   3  kerovnia (kerovnian)
+33  26   9  take (fire)
+33  29  14  head
+34   4  11  gringo
+34   5   2  feet
+34   5   5  hand
+34   6  11  kerovnia (kerovnian)
+34  12   1  chamber
+34  13   1  erik
+34  14   9  gringo
+34  15  12  voice
+34  16   7  magician
+34  20   5  feet
+34  21   3  take (fire)
+34  21   4  gringo
+34  23   3  gringo
+34  25  12  throne
+34  26   2  gringo
+35   1   9  leave
+35   1  11  palace
+35   2   2  kerovnia (kerovnian)
+35   5   8  magician
+35   7   6  princess
+35   8   1  kerovnia (kerovnian)
+35  10   4  gringo
+35  15   5  doors
+35  15  11  fire
+35  19  12  room
+35  20  12  fire
+35  22   1  gringo
+35  22  11  light
+35  23  12  go
+35  24   1  gringo
+35  27   2  red
+35  27   3  fire
+36   1   4  fire
+36   1  10  gringo
+36   3   4  hat
+36   8   6  erik
+36   8   8  put
+36   8  10  bed
+36   9   3  gringo
+37   2   1  gringo
+37   2   9  go
+37   9   9  princess
+37  13  11  boxes
+37  15   9  kerovnia (kerovnian)
+37  15  11  boxes
+37  18  10  turn
+37  21   1  erik
+37  21   7  attack
+37  22  13  horse
+37  23  12  gold
+38   5   1  erik
+38   6   4  wear
+38   8  10  head
+38   9   8  join
+38  10   9  leave
+38  10  11  palace
+38  12   3  palace
+38  12   9  join
+38  15   7  red
+38  15   9  gold
+38  17   4  gold
+38  17   6  red
+38  17  13  head
+38  21   4  blue
+38  24   6  rose
+38  26  13  green
+38  27   5  high
+38  28   4  eyes
+38  29   9  head
+39   1   2  guards
+39   3   6  blue
+39   3   9  stone
+39   8   4  kerovnia (kerovnian)
+39  10   2  head
+39  13   4  erik
+39  14   4  take (fire)
+39  18   2  take (fire)
+39  18  13  green
+39  19   6  erik
+39  19  10  kerovnia (kerovnian)
+39  20   6  person
+39  21   9  person
+39  25   7  palace
+39  26   3  princess
+39  27  12  palace
+40   1   1  pool
+40   3   5  palace
+40   4   1  gardens
+40   4   7  blue
+40   4   9  light
+40   4  11  rose
+40   9   5  blue
+40   9   8  voice
+40   9  12  water
+40  12   2  rose
+40  12   5  feet
+40  13   2  water
+40  14   1  princess
+40  14  13  life
+40  15   8  red
+40  15   9  eyes
+40  16   3  blue
+40  17   3  leave
+40  23   3  leave
+40  25  10  go
+40  27   8  erik
+41   2   5  kerovnia (kerovnian)
+41   5   3  cry
+41   7   6  erik
+41   9   3  kerovnia (kerovnian)
+41  16   1  erik
+41  16   7  leave
+41  16   9  room
+41  17   5  hand
+41  18  11  rose
+41  18  14  feet
+41  19   4  cloak
+41  19  12  room
+41  20   5  erik
+42   3  11  leave
+42   4   4  stone
+42   4   7  go
+42   5   1  scrape
+42   6   3  gringo
+42  10   1  erik
+42  13   4  princess
+42  13   9  palace
+42  14   1  erik
+42  16   2  princess
+42  17  10  rope [should be "cloud"]
+42  17  12  dust
+42  19   2  run
+43   4   2  princess
+43   8   1  erik
+43   9   7  life
+43   9  11  take (fire)
+43  10   7  head
+43  12   4  princess
+43  13   3  bed
+43  13   8  kerovnia (kerovnian)
+43  15   9  look
+43  19   9  much [should be "trees"]
+43  20   6  life
+43  20   7  tree
+43  21   4  trees (much)
+43  23   8  princess
+43  24   5  erik
+44   3   2  blue
+44   3   4  snow
+44   7  12  foothills
+44  10   5  snowman
+44  10   8  feet
+44  12   3  look
+44  13   4  eyes
+44  16  10  go
+44  20   4  snowman

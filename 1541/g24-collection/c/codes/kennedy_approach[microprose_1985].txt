@@ -1,0 +1,18 @@
+This game uses a code sheet:
+
+1 - DME
+2 - VOR
+3 - ATC
+4 - FAR
+5 - IAP
+6 - GCA
+7 - FSS
+8 - HAT
+9 - VFR
+10 - STAR
+11 - SID
+12 - JFR
+13 - TDZ
+14 - PAR 
+15 - NOB
+16 - ELT

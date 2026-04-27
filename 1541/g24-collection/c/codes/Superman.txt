@@ -1,0 +1,39 @@
+Here is the code card for Superman, Man of Steel.  I'm pretty sure I typed
+this in accurately, however the 'l' and '1' characters were pretty close.
+The game asks for a single character, first column then row.
+
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+   0 1 2 3 4 5 6 7 8 9 A B C D E F 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+00 R e j o t y z 3 8 = B G L Q V [ I L k H v m d r s m 3 I J l m @
+01 c i o u w 1 7 = C I O U [ 1 7 = S i s I C i o H o \ r e @ l S t
+02 f m t w 2 9 @ G N U \ 3 : A H O F s r x ? r 4 9 l C V = @ 0 x y
+03 i q y l 9 A I Q Y 1 9 A I Q Y a R t f M @ t X q = : m 0 O o d y
+04 l u z 7 @ I R [ 4 = F O X a j s I u @ : l I } t T } \ e E e r @
+05 o y 3 = G Q [ 5 ? I S ] g q w 5 M n i C @ i L l \ s < e E a m z
+06 r y 8 C N Y 4 ? J U R k v l < G U k l S 9 L j w < ^ l z = g u 3
+07 u 1 = I U l = I U a m y 5 A M Y l 9 A e j 0 = ^ l m t F a } v a
+08 x 5 B O \ 9 F S R m z 7 D Q ^ : y d T C x t @ R t g T t O s S m
+09 w 9 G U 3 A O ] k y 7 E S O > L K y 7 e s n 4 J 0 @ l 7 3 a s 4
+10 z = L [ : I X q v 5 D S 3 @ Q ^ t I i b t M 2 s T @ < p \ a e R
+11 1 A Q 1 A Q a q l A Q 0 @ P R p 4 E P 6 l m c i o u w 1 7 = C N
+12 4 E V 7 H Y j w < M ^ > Q R s 2 C N Y 4 ? J a m z 7 d Q u 1 I c
+13 7 I [ = O a s 5 G Y : L ^ p 2 D i a P 2 d I A 0 5 I } ] l m d y
+14 : M 0 C V i x ? R 4 I Z o 0 E V d j ) f u K l 1 \ c v V C p d @
+15 = Q 5 I ] q 5 I ] @ T h x @ T 8 I a G v t @ t S h r \ R t w W F
+16 @ U : O d y > S 9 L c v = P 7 J Q a m b F @ D d s D a p D \ e 4
+17 C Y ? U k l G ] B X n 4 J 0 F \ 3 i o 8 W \ @ e r R e o P o E R
+18 F ] D [ r 9 P 6 O d y B [ @ Y n i 7 [ g @ y 1 R e y l a u z \ j
+19 I l I a y A Y @ X p 8 P 8 P h 0 i e E R 7 @ u > l { r R e E f d
+20 L 5 N g 0 I 3 J e x G ^ I R w B P l h m @ f t p B i D \ t E d T
+21 O 9 S m 7 Q : T n 8 R < V p : T M f @ r i a C L ? o O t M 5 b r
+22 R = X s > Y E ^ w D 1 J g 0 M 5 i m I 1 D [ a t G g o A 2 P s w
+23 U A ] y E 0 L h 4 P < X t @ \ K i n < P s I y \ c s e f 1 T t a
+24 X E b { L 8 W r A \ K f 5 P < Y a t ^ m p S ? I w b m G t } y t
+25 [ I g 5 S @ ^ x J 8 V t B 3 M o Y a @ 5 s X 2 W i c t y A \ n S
+26 ^ M l ; z H i 6 W D e 2 S C b y b @ i P w J B y t o ^ a d a > w
+27 l Q q A 0 P p @ 0 P p @ 3 S s C w n w T t H 0 K p 4 c o o R \ w
+28 4 U v G 9 X w J = \ { N B c 0 Q r A i 6 w D e X @ p } l m n r t
+29 7 Y w M > R 2 T F h : \ M s A 7 i A g C y s ? o f A f 8 d 9 c W
+30 : ] 0 S G h = ^ S t I 9 \ 3 V E s Y 1 a l g y ^ v > e r ] h a H
+31 = s 5 Y L p D 8 \ 0 T K o C 7 [ L m l p y S r @ m L } i a U \ f
