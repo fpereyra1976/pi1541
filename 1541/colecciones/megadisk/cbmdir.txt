@@ -1,0 +1,240 @@
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk01.d64	146	1942	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk01.d64	113	ARMY MOVES      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk01.d64	122	ARMY MOVES 2    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk01.d64	79	BLUE MAX        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk01.d64	170	BOP N RUMBLE    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk02.d64	121	BOMBJACK        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk02.d64	201	BUBBLE BOBBLE   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk02.d64	121	BURGERTIME      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk02.d64	120	COMMANDO        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk02.d64	66	DONKEY KONG     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk03.d64	168	FIRELORD        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk03.d64	131	GHOSTS'N GOBLINS	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk03.d64	148	GIANA SISTERS   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk03.d64	198	GREENBERET      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk04.d64	147	FORCE SEVEN+    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk04.d64	142	KRAKOUT         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk04.d64	190	KUNG FU MASTER  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk04.d64	65	POLE POSITION   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk04.d64	115	SHAO LINS ROAD  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk05.d64	171	RAMBO           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk05.d64	97	S.W.A.T.        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk05.d64	160	SILK WORM       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk05.d64	147	SOLDIER ONE     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk05.d64	75	STIX-J2-HACK-VM 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk06.d64	143	TIGER MISSION   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk06.d64	112	WHO DARES WINS 2	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk06.d64	145	YIE AR KUNG-FU  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk06.d64	201	YIE AR KUNG-FU 2	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk07.d64	130	1943 1 YEAR AFTE	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk07.d64	105	1943 BAT MIDWAY 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk07.d64	110	ARCHON          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk07.d64	133	WEST BANK       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk07.d64	160	WONDERBOY       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk08.d64	135	ARKANOID        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk08.d64	161	BARBARIAN I     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk08.d64	158	BARBARIAN II    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk08.d64	129	BEACH-HEAD      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk08.d64	77	BOULDER DASH III	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk09.d64	136	ENDURO RACER    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk09.d64	60	H.E.R.O.        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk09.d64	175	IKARI WARRIORS  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk09.d64	169	INTER.KARATE II+	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk09.d64	120	INTO EAGLES NEST	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	60	BOULDER DASH    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	88	BOULDER DASH II 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	146	DELTA           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	187	DESERT FOX      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	68	FROGGER II      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk10.d64	103	HENRY'S HOUSE   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	63	BLUEPRINT       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	129	CAULDRON 2+     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	108	KRAKOUT III     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	177	LEADERBOARD GOLF	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	64	MARIO BROS      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk11.d64	107	MINI-GOLF       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk12.d64	176	FLYING-SAUCERS  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk12.d64	148	PAPERBOY        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk12.d64	128	PARADROID       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk12.d64	76	PITSTOP         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk12.d64	34	RADAR RAT RACE  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk13.d64	132	AIRWOLF II      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk13.d64	135	ARNIE           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk13.d64	202	BADLANDS        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk13.d64	180	DANTE'S INFERNO 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk14.d64	160	ARCHON 2        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk14.d64	185	COBRA           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk14.d64	177	ELITE           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk14.d64	40	GALAXIAN        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk14.d64	46	LIGHT CYCLES    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk15.d64	129	JOE BLADE 2     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk15.d64	127	LIGHTFORCE      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk15.d64	65	MONTEZUMAS REV. 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk15.d64	188	POWER DRIFT     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk15.d64	124	SKATE ROCK      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk16.d64	140	3D SOCCER       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk16.d64	157	REBOUNDER+      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk16.d64	171	SAM FOX S'POKER 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk16.d64	98	SOLOMON'S KEY   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk16.d64	78	SPY HUNTER      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk17.d64	135	MEAN-STREAK     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk17.d64	202	MEGA-APOCALYPSE 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk17.d64	143	MIGHTY BOMBJACK 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk17.d64	158	NEBULUS         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	191	GRYZOR          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	75	JUMPMAN JUNIOR  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	65	JUNGLE HUNT     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	63	LODERUNNER      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	58	LUNAR LEEPER    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	93	MISSILE COMMAND 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk18.d64	61	MOONPATROL      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk19.d64	164	FIST 2          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk19.d64	177	FIST+           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk19.d64	177	FLYING SHARK    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk19.d64	139	JAILBREAK       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk20.d64	142	10TH FRAME      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk20.d64	84	AIRWOLF         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk20.d64	171	RAID OVER MOSCOW	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk20.d64	60	SCRAMBLE        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk20.d64	143	SPY VS SPY      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk21.d64	136	BOUNCES         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk21.d64	176	BUGGY BOY       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk21.d64	61	DECATHLON       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk21.d64	66	DIG DUG         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk21.d64	195	WIZBALL         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk22.d64	170	BOMB JACK II    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk22.d64	152	SUPER SPRINT    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk22.d64	142	URIDIUM         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk22.d64	200	WAY OF EXPL.FIST	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk23.d64	172	SPY VS SPY 2    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk23.d64	176	SPY VS SPY 3    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk23.d64	192	THE YOUNG ONES  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk23.d64	80	WIZARD OF WOR   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	110	BATTLE SHIP     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	19	BATTLESHIPS     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	146	BURNING RUBBER  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	66	CHOPLIFTER      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	107	FRED'S BACK     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	149	FRED'S BACK II  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk24.d64	66	JOE BLADE       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk25.d64	149	CAMELOT WARRIORS	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk25.d64	82	TRAILBLAZER     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk25.d64	153	UP'N DOWN       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk25.d64	135	WARHAWK         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk25.d64	102	WHO DARES WINS  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk26.d64	146	SUPERCARS       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk26.d64	178	TERRA CRESTA    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk26.d64	118	TETRIS          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk26.d64	157	TIGER HELL      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk27.d64	126	SPEED KING      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk27.d64	153	STAR WARS       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk27.d64	111	STEALTH         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk27.d64	184	STUNT CAR RACER 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk28.d64	201	SANXION         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk28.d64	31	SAVE NEW YORK   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk28.d64	182	SILK WORM IV    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk28.d64	152	SPACEHARRIER    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk29.d64	182	POLE POSITION 2 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk29.d64	138	QIX             	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk29.d64	177	RETURN OF JEDI  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk29.d64	105	RYGAR           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk30.d64	106	ATOM ANT        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk30.d64	121	BACK TO FUTURE  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk30.d64	173	BAZOOKA BILL    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk30.d64	176	DECATHLON 2     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk30.d64	61	RIVER RAID      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk31.d64	137	ARKANOID II     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk31.d64	146	DAM BUSTERS     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk31.d64	185	PAC-LAND        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk31.d64	99	PARK PATROL     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk31.d64	65	POPEYE          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk32.d64	175	NEMESIS         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk32.d64	91	NINJA           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk32.d64	191	OPERATION WOLF  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk32.d64	136	OUTRUN          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk33.d64	195	AUFW. MONTY     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk33.d64	195	BRUCE LEE       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk33.d64	60	BUCK ROGERS     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk33.d64	177	RAGS TO RICHES  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	199	CLIFFHANGER     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	67	FROGGER         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	63	MS. PAC MAN     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	59	PITFALL 2       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	66	SOCCER          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk34.d64	171	SPACE PILOT     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk35.d64	122	ACTION BIKER +  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk35.d64	173	DEACTIVATORS    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk35.d64	103	KINGSVALLEY     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk35.d64	158	SUPER CARS      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk36.d64	131	BASKET II       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk36.d64	66	DEFENDER        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk36.d64	33	LE MANS         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk36.d64	33	PAC MAN         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk36.d64	177	SKOOL DAZE      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk37.d64	94	ABUSIMBEL       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk37.d64	138	BRUCE LEE R.O.F.	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk37.d64	197	FIX IT FELIX JR 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk37.d64	98	MILLIEANDMOLLY  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk37.d64	74	SANTRON         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk38.d64	154	PARANOIDS       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk38.d64	192	SUPER M. BROS.64	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk38.d64	112	TIGERCLAW64-NON-	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk38.d64	137	WOLFLING14      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk39.d64	123	BUBBLE DIZZY    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk39.d64	161	F.A.S. FOOTBALL 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk39.d64	191	FIRST STRIKE    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk39.d64	146	GREAT ESCAPE    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk40.d64	170	ACE II          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk40.d64	145	ATLANTIS        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk40.d64	92	AVIATOR ARCADE  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk40.d64	116	BOMB MANIA      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\Megadisk40.d64	103	C64 ANABALT     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk41.d64	164	COSMIC FORCE    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk41.d64	139	DARK FORCE      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk41.d64	202	HARD N HEAVY    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk41.d64	115	HIGHNOON        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	96	EYE OF THE GODS 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	53	FALCON PATROL   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	58	FALCON PATROL 2 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	36	FLAPPY BIRD     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	97	GIANA SISTERS 3 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	127	GRID PIX        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk42.d64	183	JAM IT          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk43.d64	101	JOE GUNN        	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk43.d64	133	KRAKOUT II      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk43.d64	134	KRAKOUT IV      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk43.d64	134	KRAKOUT V       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk43.d64	135	KRAKOUT VI      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	79	MOONSPIRE       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	130	PLANET GOLF     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	61	POOYAN          	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	130	RUN DEMON RUN   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	99	SUPER BONKEY KON	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk44.d64	111	X-FORCE 2015    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk45.d64	146	IKARI WARRIORS 2	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk45.d64	187	THE AGE OF HERO 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk45.d64	94	THE TETRIS GAME 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk45.d64	178	THE VIKINGS     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	136	ANDY CAPP       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	105	BC QUEST TIRES  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	133	BREAKTHRU       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	83	HAZAR           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	86	TRUMP TOWER     	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk46.d64	112	ZAPFIGHT 2      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk47.d64	112	FALKLANDS '82   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk47.d64	128	MAG MAX         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk47.d64	119	SHANGHAI KARATE 	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk47.d64	140	TANK            	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk47.d64	125	ZORRO           	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk48.d64	164	SIGMA 7         	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk48.d64	153	SOLDIER OF FORTU	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk48.d64	169	SPEEDBALL       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk48.d64	168	SUPER ZAXXON    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk49.d64	166	INT 3D TENNIS   	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk49.d64	153	RED L.E.D.      	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk49.d64	160	RICK DANGEROUS  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk49.d64	149	SUPER SCRAMBLE  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk50.d64	73	JEEP COMMAND    	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk50.d64	145	KNUCKLEBUSTERS  	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk50.d64	168	LEVIATHAN       	PRG
+C:\Users\mapi\Desktop\SD2IEC MASTER\megadisk\megadisk50.d64	179	LICENSE TO KILL 	PRG
