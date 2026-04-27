@@ -1,0 +1,65 @@
+BEACH BUGGY SIMULATOR BY SILVERBIRD (1988)
+==========================================
+Original game: Probe Software
+
+The crazy hack
+--------------
+BEACHBUGGYSIM+28D crazy trainer hack is the standard game of Beach Buggy Simulator by Silverbird but with additional 28 in-game features that have been added by Hackersoft. Press the following keys during game play to turn on/off the extra features:
+
+  1 = Freeze Time*1
+  2 = Unfreeze Time
+  3 = Freeze Fuel
+  4 = Unfreeze Fuel
+  5 = Collision Off
+  6 = Collision On
+  7 = Invisi-Car On
+  8 = Invisi-Car Off
+  9 = Grenades
+  0 = Missilies
+  + = Turbo Boost!
+  - = Wheelie!
+  Q = Border Colour
+  W = Sky Colour
+  E = Scenery Colour 1
+  R = Scenery Colour 2
+  T = Scenery Colour 3
+  Y = Scenery Colour 4
+  U = Scenery Colour 5
+  I = Life On Mars!
+  O = Winter Wonderland!
+  P = Night Rider!
+  A = Tonka Mode On
+  S = Tonka Mode Off
+  D = Sprite Colour 1
+  F = Sprite Colour 2
+ C= = Level Skip
+SPC = Smart Bomb
+
+
+Notes
+-----
+*1 You'll have to unfreeze the timer when you hit the finish line so that you can progress to the next level. 
+
+--==> NOT TO BE UPLOADED TO CSDB.DK – FOR HACKERSOFT USE ONLY <==--
+
+Remember - the original game is always there and you don't have to press anything if you don't want any of the features - which is a little different than the usual trainers that only give you options before it decrunches and then you are stuck with your decisions. More accessibility for the player and much more fun overall :)
+
+
+The game
+--------
+You've just bought yourself a shiny new beach buggy and entered the Dune Trials to show everyone how excellent it is. Burn across the sand hills, jump over the rocks and fire, and if you have to, shoot out the helicopters. Beat the clock and qualify for the next, harder, round.
+
+
+Controls
+--------
+Joystick in port 2.
+
+============================================
+
+Crack/hack/trainer: Vinny Mainolfi
+        Intro code: Vinny Mainolfi & Richard Bayliss
+            Bitmap: SAM & Vinny
+       Intro music: Richard Bayliss
+   Testing/Support: Frank Gasking
+
+February 2015
