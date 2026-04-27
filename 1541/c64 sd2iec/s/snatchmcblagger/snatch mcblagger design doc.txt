@@ -1,0 +1,41 @@
+SNATCH McBLAGGER
+--------------------------
+THE STORY:
+Scotland, 1962...
+During an unscheduled tea break, the guards at Fharthmoor Prison allow semi-notorious cat burglar Snatch McBlagger to escape. 
+And so McBlagger begins an epic crime spree that would have made a smashing film...
+
+INSTRUCTIONS:
+Guide McBlagger out of jail and into various locations to steal valuable loot.
+Joystick/keyboard controls:
+LEFT/RIGHT= Walk.
+FIRE= Toss a sausage laced with sleeping drug. Helpful against vicious dogs (but not much else).
+UP/DOWN= Climb.
+DOWN+LEFT/RIGHT= Crawl. Also a great way to dodge unfriendly fire (the only kind of fire in this game).
+
+You get an extra life for every 10,000 points you score.
+
+COPPERS are Snatch McBlagger's main problem. 
+If they spot him (a copper's line of sight is marked with a moving "?"), he will get caught.
+If they catch him, he will get clobbered.
+DOGS will attack McBlagger, unless he can avoid them... or feed them until they fall asleep.
+SLEEPWALKERS wake up and make a fuss if McBlagger runs into them.
+SNAKES are sheer poison. Avoid them at all costs.
+SPOTLIGHTS are searching for McBlagger. If he gets caught in one, it's bye-bye.
+PRISONERS are not going to help McBlagger escape! (He owes them money.)
+
+ITEMS:
+- Sausage: 100 points
+- Flashlight: 100 points
+- Money bag: 1,000 points
+- Gold: 2,000 points
+- Painting: 2,000 points
+
+HINTS & TIPS:
+- Explore the environment. There are lots of hidden rewards to find.
+- Different paths will lead to different results. (NOTE: Some of them must be found...)
+- Play cleverly to collect the maximum number of items.
+- Timing is essential. You must be quick to hide, but also quick to move on.
+- Some coppers are short-sighted, but will search for McBlagger more thoroughly.
+- Listen to sound cues. They may alert you to immediate danger.
+- Grey dogs are faster, hungrier and more vicious.
